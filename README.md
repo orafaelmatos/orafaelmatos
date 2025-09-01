@@ -3,11 +3,11 @@
 **`Full-Stack Developer | Backend & Web Specialist`**
 <br>
 <br>
-Sou um desenvolvedor full-stack, focado na criação de aplicativos escaláveis, confiáveis e de alto desempenho. Sou especialista em desenvolvimento backend, sistemas assíncronos e design de API, com experiência em frameworks front-end, bancos de dados e arquiteturas nativas da nuvem. Meu objetivo é criar softwares que agreguem valor real e resolvam problemas do mundo real.
+I am a full-stack developer focused on creating scalable, reliable, and high-performance applications. I specialize in backend development, asynchronous systems, and API design, with experience in front-end frameworks, databases, and cloud-native architectures. My goal is to create software that adds real value and solves real-world problems.
 
 ---
 
-### 🤖 Competências e tecnologias
+### 🤖 Core skills and technologies
 
 <img 
     align="left" 
@@ -132,14 +132,13 @@ Sou um desenvolvedor full-stack, focado na criação de aplicativos escaláveis,
 
 <br/>
 <br/>
+<br/>
 
-### 📊 Estatísticas
-
-
+### 📊 Stats
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafaelmatos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=orafaelmatos&theme=tokyonight&layout=compact&custom_title=TopLanguages&langs_count=9" 
   />
