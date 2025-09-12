@@ -7,7 +7,7 @@ I am a full-stack developer focused on creating scalable, reliable, and high-per
 
 ---
 
-### 🤖 Core skills and technologies
+### Core skills and technologies
 
 <img 
     align="left" 
@@ -134,7 +134,7 @@ I am a full-stack developer focused on creating scalable, reliable, and high-per
 <br/>
 <br/>
 
-### 📊 Stats
+### Stats
 
 <img 
       align="left" 
