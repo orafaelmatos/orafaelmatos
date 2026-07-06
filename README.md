@@ -134,11 +134,6 @@ I am a full-stack developer focused on creating scalable, reliable, and high-per
 <br/>
 <br/>
 
-![Repo Card](https://github-readme-stats.tuhidulhossain.com/api/pin?username=orafaelmatos&repo=autoopera&theme=github_dark)
-![Repo Card](https://github-readme-stats.tuhidulhossain.com/api/pin?username=orafaelmatos&repo=best-part-school&theme=github_dark)
-![Repo Card](https://github-readme-stats.tuhidulhossain.com/api/pin?username=orafaelmatos&repo=gestor-documentos&theme=github_dark)
-![Repo Card](https://github-readme-stats.tuhidulhossain.com/api/pin?username=orafaelmatos&repo=Nexus-PDM&theme=github_dark)
-
 
 
 
