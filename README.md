@@ -1,4 +1,11 @@
 <div align="center">
+<div align="center">
+  <img
+    width="100%"
+    src="./assets/banner.png"
+    alt="Rafael Matos - Full-Stack Developer"
+  />
+</div>
 
 # Rafael Matos
 
